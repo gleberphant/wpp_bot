@@ -1,0 +1,7 @@
+/arquivos_excel/
+/build/
+/datafiles/
+/dist/
+*.env
+.env
+logfiles/log_enviados.json
